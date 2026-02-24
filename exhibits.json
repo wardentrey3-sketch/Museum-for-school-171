@@ -1,0 +1,160 @@
+{
+    "ex_1771937490": {
+        "name": "Стенд №1",
+        "description": "Инструменты медицинского работника.",
+        "photos": [
+            "AgACAgIAAxkBAAID1GmdnnQ535L4Un6K-jG7dVGlDgycAAJhGGsbbALwSHS_ozU1ME60AQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAID1mmdnn_2q5tK78lTVhYQ7gABTIqMdwACYhhrG2wC8EilMfkQSrrrsQEAAwIAA3kAAzoE",
+            "AgACAgIAAxkBAAID2GmdnobEQx-bzhrXHUCJQfRXXreqAAJjGGsbbALwSBAhmmKxLgsFAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAID2mmdnozY-P_9NxERvKTAU1UxJSTSAAJkGGsbbALwSIU2DqiP7JJXAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAID3GmdnpSd8AFtMYWEkhIOZuAH4SRyAAJlGGsbbALwSNF9F-8-tnlOAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAID3mmdnprdhmImzoFqjPfHM8K3HLDJAAJmGGsbbALwSCmfQZHgh4hpAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAID4Gmdnp_LP00Xq9UVEow99zdGUmeFAAJnGGsbbALwSE97fh7UlGQKAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAID4mmdnqhqi1nQKj5wd_szeHIijpRyAAJoGGsbbALwSMr1fiGTiCI3AQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAID5GmdnrGrey_T3DbLfPX4cy2Is0T3AAJpGGsbbALwSLqPGaFjxTiiAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAID5mmdnrqnJ7jAnB366amN3MIZQVkXAAJqGGsbbALwSKZYlZsuJGadAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAID6GmdnsmHp302yTKLNZyQI7ZREPdyAAJrGGsbbALwSE_6cgVGD9xwAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAID6mmdntAxf34LxQPll6ILzuzph0DwAAJtGGsbbALwSK2ye-C6y2_UAQADAgADeQADOgQ"
+        ]
+    },
+    "ex_1771937669": {
+        "name": "Стенд №2",
+        "description": "Основные принадлежности солдата в зоне СВО.",
+        "photos": [
+            "AgACAgIAAxkBAAID-Gmdn2WekcZ_bka4NxcpD1OfuVGvAAJ7GGsbbALwSLJrufD2SyvaAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAID-mmdn2sqVrEXWR39zXUC2wSfWKxrAAJ8GGsbbALwSFk6aGkZtoxFAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAID_Gmdn3KKwsWOJOHM5sMByHNTCMrWAAJ9GGsbbALwSBVr-CmKEX1aAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAID_mmdn3hiA1kTK_A30q-XX6C3hKYbAAJ-GGsbbALwSDdkQrlUyM9CAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIEAAFpnZ9_do_myzmAfKUc9517OpeyswACfxhrG2wC8EhZVxhMiFiHTgEAAwIAA3kAAzoE",
+            "AgACAgIAAxkBAAIEAmmdn4X4Hd3a6qvwgTtbClZ9swj5AAKAGGsbbALwSFQyjY3Iju0jAQADAgADeQADOgQ"
+        ]
+    },
+    "ex_1771937819": {
+        "name": "Стенд №3",
+        "description": "Стенд посвящен жизни и работе Шайдулина И. Р.\nНа <b>фото №2</b> лента с торжественного открытия музея 29.04.25",
+        "photos": [
+            "AgACAgIAAxkBAAIEEWmdn9gsXXsZsOLI3yXTl0bLL11kAAKHGGsbbALwSLAfP4-_jSbfAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIEE2mdn_a2fSmJw92v5Cm-9TBEJMbBAAKSGGsbbALwSFamNaNSlcwjAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIEFWmdn_vROt-FMon0dh5FWXYXUD3GAAKTGGsbbALwSO0Mu-2C-MinAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIEF2mdoAAB9SC8jki2NOA78F9LHiyIJwAClBhrG2wC8Ej_OuHczIJRZwEAAwIAA3kAAzoE",
+            "AgACAgIAAxkBAAIEGWmdoAbvisHodT05VHB0_bXQHUYrAAKVGGsbbALwSPUJfy96OzBfAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIEG2mdoAxWqS4fFskHk3MGZZcgkFSnAAKWGGsbbALwSIltz84VfoprAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIEHWmdoBLnfj4Qxf1-eQrJMisXEmdGAAKXGGsbbALwSNQY96voKBRDAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIEH2mdoBpaUb-kYBAyIkV-MJXmCx-iAAKYGGsbbALwSPZpB72kBXOYAQADAgADeQADOgQ"
+        ]
+    },
+    "ex_1771938133": {
+        "name": "Стенд №4",
+        "description": "Артефакты и трофеи <b>Великой Отечественной Войны.</b>",
+        "photos": [
+            "AgACAgIAAxkBAAIELWmdoG6RCLtMsGPODktwbypQSSw4AAKmGGsbbALwSGOdGvu9oHpYAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIEL2mdoH4dzv59VzLTb31pCsoCD8ElAAKnGGsbbALwSOmEfxnNjZE1AQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIERmmdoOiygk-FYYacsK2pjckXFUVTAAKwGGsbbALwSPHzp9zUfyVIAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIESGmdoQScrXaAm4SwJ7jJKeLk-V9wAAKxGGsbbALwSM4bNPlagW6gAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIESmmdoRUnHMBfU5XJIrOGJPiJvs5oAAKyGGsbbALwSK3l1FVCmFmLAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIETGmdoSH_-RU0dqLTMR0nmPxVwOvNAAKzGGsbbALwSJMn-1wjmnPsAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIETmmdoTn6y9kaQpTZ4UnMyog_f-j5AAK2GGsbbALwSALdcl6omPTRAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIEUGmdoVT-inCTajjj2vJBTWGKOxOiAAK4GGsbbALwSK5LDuCJvLuvAQADAgADeQADOgQ"
+        ]
+    },
+    "ex_1771938279": {
+        "name": "Стенд №5",
+        "description": "Литература и личные письма времен Великой Отечественной Войны",
+        "photos": [
+            "AgACAgIAAxkBAAIEX2mdobfqK9jRW-rF0h67xLZIP8HgAAK6GGsbbALwSFeJZ2G6ZX1xAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIEYWmdob6cSyO5WirOwvvgyocbRDOwAAK7GGsbbALwSAHPszIhFB9ZAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIEY2mdocWdiy7ZLTcAAYPvUK6TJjF06QACvRhrG2wC8Ei8RhAtzVtAlgEAAwIAA3kAAzoE",
+            "AgACAgIAAxkBAAIEZWmdocwJV7jJhlFUzv35GFinOCRQAAK-GGsbbALwSAABEyw4xkcEfwEAAwIAA3kAAzoE",
+            "AgACAgIAAxkBAAIEZ2mdodPGcL4a1stwGvPfM2Nc7gYpAAK_GGsbbALwSN6PBdhDWGWPAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIEaWmdod1ZfcBrgjPJuTt7jzaQS9K7AALAGGsbbALwSEntzwt2ftvhAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIEa2mdoeW3AfnG4Ut2BVujNFU1xQQ8AALBGGsbbALwSGwJSAYZ-yc_AQADAgADeQADOgQ"
+        ]
+    },
+    "ex_1771938342": {
+        "name": "Стенд №6",
+        "description": "Книги, написанные Мустафиным Шагинуром Ахметсафовичем.",
+        "photos": [
+            "AgACAgIAAxkBAAIEe2mdoiX1Li7itSmG-664k12Fw2-lAALDGGsbbALwSA-31D_gI3xmAQADAgADeQADOgQ"
+        ]
+    },
+    "ex_1771938418": {
+        "name": "Стенд №7",
+        "description": "Стенд посвящен работе и жизни Мустафина Шагинура Ахметсафовича.",
+        "photos": [
+            "AgACAgIAAxkBAAIEimmdol4JMnPekEpm19C_vxdngPt7AALHGGsbbALwSMNDXzDHQ3RYAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIEjGmdomYX8irfKDTiWkk1X307EPUHAALIGGsbbALwSA8pnkh1hzY1AQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIEjmmdonEa6gfwRjDCMTRbxBTeQVmBAALJGGsbbALwSIUJiJHC8StUAQADAgADeQADOgQ"
+        ]
+    },
+    "ex_1771938579": {
+        "name": "Стенд №8",
+        "description": "Личные вещи Мустафина Шагинура Ахметсафовича.",
+        "photos": [
+            "AgACAgIAAxkBAAIEpmmdosUfl2LRTk6ARcmcG_RqR8MDAALMGGsbbALwSNZqaFhe9yoYAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIEqGmdouAX2mxacdly8r8gfHlNMFOgAALPGGsbbALwSPM1OrRDq7AoAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIEqmmdoudYFyEtYAmALR7ncJEu3pgSAALRGGsbbALwSCGTs20JH2MYAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIErGmdovcl_qT2sqt7Dr1h-6kSETI4AALTGGsbbALwSFtOKqw0QCllAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIErmmdov1T1ZowjC5Ry6FbcmqtxC4CAALVGGsbbALwSJYZogHozgABaQEAAwIAA3kAAzoE",
+            "AgACAgIAAxkBAAIEsGmdowNy_Iy-VTT8dlVPTt3HyVJAAALXGGsbbALwSIBCTczOB6uVAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIEsmmdowkzGqMVoQxJvd-XP55lOBIrAALYGGsbbALwSN-CaFTDoZ-9AQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIEtGmdoxIImi0TiiHvRGeQJsZBazl9AALZGGsbbALwSK0X1z4lzU62AQADAgADeQADOgQ"
+        ]
+    },
+    "ex_1771938889": {
+        "name": "Стенд №9",
+        "description": "<b>Бессмертный</b> полк.",
+        "photos": [
+            "AgACAgIAAxkBAAIE1mmdpAbH1V3HQIjWDCZD87jUYLbOAALnGGsbbALwSDTTiNnEkDQrAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIE2GmdpA1G5CNI0E9SmfvSgIW_B7qwAALoGGsbbALwSOiXYdk4HotMAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIE2mmdpBFvFWRqkYJWUWhFPY3jyxFhAALpGGsbbALwSPh2LKOAEa-cAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIE3GmdpBnOC2iOrxcS4S4GTXHbTrB6AALqGGsbbALwSK0D_4NTMvuRAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIE3mmdpB9_BYbRzckqNcjwFi9h8YpaAALrGGsbbALwSK_WFJiFLJsAAQEAAwIAA3kAAzoE",
+            "AgACAgIAAxkBAAIE4GmdpCjV4cxRkz9__uY4G0Ti5uhXAALsGGsbbALwSFhxHK7i_aGWAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIE4mmdpC1NP-ys42G-9DSiDDUFrWcmAALtGGsbbALwSE-lbWyweo2QAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIE5GmdpDSKpI1iYRcFfjn9GbQEGHIxAALuGGsbbALwSH23lhO3dAVHAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIE5mmdpDtC_GBJ84kN2t15WYyUSoVKAALvGGsbbALwSBoIFWR473e0AQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIE6GmdpEJD9DwIRqOn-szHGswDiQkNAALwGGsbbALwSIFmvxdS9p5wAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIE6mmdpEh0EfJMdaszFkfpnchP5SHrAALxGGsbbALwSMcHezTDUK4vAQADAgADeQADOgQ"
+        ]
+    },
+    "ex_1771939098": {
+        "name": "Стенд №10",
+        "description": "<b>Бессмертный</b> полк. (Выпускники школы №171)",
+        "photos": [
+            "AgACAgIAAxkBAAIE-WmdpLbqmyP-9IhXoEVIxiVO0ZSdAAL3GGsbbALwSDo4PY-_Zww5AQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIE-2mdpM7mpKK_nz7Es-2K2LqRr6DLAAL5GGsbbALwSBhs-uMoc1lhAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIE_WmdpNtRXAm-q18YcM8wBZn7E0YCAAL7GGsbbALwSP9tpjinU1auAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIE_2mdpPIK3DwAAWTiO0F-OolVZ59zPwAC_RhrG2wC8EhrZl2-ZPHVrgEAAwIAA3kAAzoE",
+            "AgACAgIAAxkBAAIFAWmdpQGHcM_TlUNLUr5__w5qih5AAAL_GGsbbALwSCRQymImpoyzAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIFA2mdpQtdRw4fVOiPE_fKXraoxSO1AAIBGWsbbALwSEx6CTz5GRjQAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIFBWmdpRJDBeHxNVjo36SNLom8AAE2JQACAxlrG2wC8EggZLW3y3MVpwEAAwIAA3kAAzoE",
+            "AgACAgIAAxkBAAIFB2mdpRnzNNipQ3jjAkj72JyCYuuKAAIFGWsbbALwSIsy3HG_BlhQAQADAgADeQADOgQ"
+        ]
+    },
+    "ex_1771939249": {
+        "name": "Галерея",
+        "description": "<b><u>Фото 1-7:</u></b> Долгожданное открытие музея (29.04.2025)\n\n<b><u>Фото №8:</u></b>10 октября в нашей школе прошел городской семинар для учителей ОБЗР. В рамках мероприятия была организована экскурсия по школьному Музею Боевой Славы. Своим опытом работы поделился наш педагог Файзуллин Эмиль Равилевич. Семинару была дана высокая оценка его участниками.\n\n<b><u>Фото 9,10:</u></b> 26 ноября Выступил Заслуженный работник культуры РТ, председатель Ассоциации \"Клуб Воинской Славы\" Михаил Валерьевич Черепанов по проекту \"Имена героев -на малую родину\". Дети слушали с замиранием. Михаил Валерьевич Черепанов посетил наш музей Боевой Славы.\n\n<b><u>Фото 11,12:</u></b> 16 сентября заместитель начальника штаба войсковой части 268 самоходного полка майор Голованов Константин Сергеевич вручил знамя своего полка нашему музею . Он сообщил, что в зоне СВО служит более 20 выпускников нашей школы.",
+        "photos": [
+            "AgACAgIAAxkBAAIFG2mdpXlzcwABSlZ-3umZYs9wH2oIgQACCxlrG2wC8EinEQJuo-gipgEAAwIAA3kAAzoE",
+            "AgACAgIAAxkBAAIFHWmdpYT1N7PV-TYRCAABVd5un7HxqQACDRlrG2wC8EhIeFX9nDBAgQEAAwIAA3kAAzoE",
+            "AgACAgIAAxkBAAIFH2mdpYmj9cETJNpK5IFCfc3rQA2qAAIOGWsbbALwSPJHl7eQKSa5AQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIFI2mdpZW_LuMhBaETrDbzNNr3gddxAAIRGWsbbALwSEoVTGfOdNQYAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIFIWmdpY-QKQABB27Gx9J56uBuJYChBQACEBlrG2wC8EibUIdw1QuRcgEAAwIAA3kAAzoE",
+            "AgACAgIAAxkBAAIFJWmdpZn3nQpA4SyTRQu3FrF0fNZZAAISGWsbbALwSAQUbba3M2X0AQADAgADeAADOgQ",
+            "AgACAgIAAxkBAAIFF2mdpWJd7knxnpqv6DnWTzNDsAodAAIIGWsbbALwSIczztR63lDhAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIFFWmdpVvPdjxQCgsNcQLy5-C1nUQgAAIHGWsbbALwSEFH1FuClHs5AQADAgADeAADOgQ",
+            "AgACAgIAAxkBAAIFGWmdpXQJlDxQVDh4OdSrQBCHo7B6AAIJGWsbbALwSJk4baXWul6CAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIFKWmdpal6fpSCwC8mMLbtDHyd4graAAIVGWsbbALwSGt6gaIjZGVmAQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIFJ2mdpaJxGRoQ6bB9hjsjZwABuQ60bQACExlrG2wC8Ei-Uh62y2VxmgEAAwIAA3gAAzoE",
+            "AgACAgIAAxkBAAIFK2mdpa_EWaDOk9QGOgjyI9dZbEO4AAIWGWsbbALwSNzj6ZXiGaRiAQADAgADeQADOgQ"
+        ]
+    },
+    "ex_1771939324": {
+        "name": "Ханский Данил",
+        "description": "описания нет",
+        "photos": [
+            "AgACAgIAAxkBAAIFPGmdpfdR1j1ZyYbiWxPluRm6p0Q-AAIZGWsbbALwSGwsL9tRu5r2AQADAgADeQADOgQ",
+            "AgACAgIAAxkBAAIFPmmdpfwvk9KHyzInjFVOVnmY0WNbAAIaGWsbbALwSARulbBBT-ujAQADAgADeQADOgQ"
+        ]
+    }
+}
