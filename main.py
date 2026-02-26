@@ -3,7 +3,7 @@ import json
 import os
 from telebot import types
 
-TOKEN = '8478989354:AAEvQ0Y0DrcEzo2u7j8oMxCQ0lAqEYhykkY'
+TOKEN = 'Сюда вставить токен бота'
 ADMIN_ID = 1846110852
 bot = telebot.TeleBot(TOKEN)
 
@@ -258,3 +258,4 @@ def handle_queries(call):
 
 bot.send_message(ADMIN_ID, 'Bot start')
 bot.infinity_polling()
+
