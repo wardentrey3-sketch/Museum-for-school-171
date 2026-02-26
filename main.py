@@ -3,7 +3,7 @@ import json
 import os
 from telebot import types
 
-TOKEN = 'Сюда нужно вставить токен своего бота'
+TOKEN = '8478989354:AAEvQ0Y0DrcEzo2u7j8oMxCQ0lAqEYhykkY'
 ADMIN_ID = 1846110852
 bot = telebot.TeleBot(TOKEN)
 
@@ -49,24 +49,22 @@ def set_last_id(chat_id, msg_id):
 
 def send_clean(chat_id, text, photo=None, markup=None):
     last_id = get_last_id(chat_id)
-    if last_id:
-        try: bot.delete_message(chat_id, last_id)
-        except: pass
     try:
         if photo:
             img = photo if isinstance(photo, list) and photo else photo
             new_msg = bot.send_photo(chat_id, img, caption=text, reply_markup=markup, parse_mode='HTML')
         else:
             new_msg = bot.send_message(chat_id, text, reply_markup=markup, parse_mode='HTML')
-        set_last_id(chat_id, new_msg.message_id)
     except Exception as e: print(f"Ошибка: {e}")
+    if last_id:
+        try: bot.delete_message(chat_id, last_id)
+        except: pass
+    set_last_id(chat_id, new_msg.message_id)
 
 
 
 @bot.message_handler(commands=['start', 'menu'])
 def start_menu(message):
-    try: bot.delete_message(message.chat.id, message.message_id)
-    except: pass
     markup = types.InlineKeyboardMarkup()
     markup.add(types.InlineKeyboardButton("🏛️ Список экспонатов", callback_data="list"))
     markup.add(types.InlineKeyboardButton("📝 Пройти тест", callback_data="quiz_0_0"))
@@ -74,13 +72,15 @@ def start_menu(message):
         markup.add(types.InlineKeyboardButton("Админ-панель", callback_data="admin_main"))
 
     send_clean(message.chat.id, main_sms_text, main_photo,markup=markup)
-
-@bot.message_handler(commands=['help'])
-def help(message):
     try: bot.delete_message(message.chat.id, message.message_id)
     except: pass
 
+@bot.message_handler(commands=['help'])
+def help(message):
     send_clean(message.from_user.id, 'По всем вопросам обращаться к @Yii_t\n\n<blockquote>made by ABCtv</blockquote>')  
+    try: bot.delete_message(message.chat.id, message.message_id)
+    except: pass
+
 
 @bot.message_handler(content_types=['photo'])
 def process_admin_photo(message):
@@ -88,10 +88,10 @@ def process_admin_photo(message):
     if chat_id in admin_state:
         if admin_state[chat_id].get('type') == 'exhibit':
             admin_state[chat_id]['photos'].append(message.photo[-1].file_id)
-            try: bot.delete_message(chat_id, message.message_id)
-            except: pass
             markup = types.InlineKeyboardMarkup().add(types.InlineKeyboardButton("✅ Завершить", callback_data="admin_save_ex"))
             send_clean(chat_id, f"📸 Фото получено ({len(admin_state[chat_id]['photos'])}).", markup=markup)
+            try: bot.delete_message(chat_id, message.message_id)
+            except: pass
     else:
         if chat_id == ADMIN_ID:
             global main_photo
@@ -104,8 +104,6 @@ def process_admin_photo(message):
 def process_admin_text(message):
     chat_id = message.chat.id
     state = admin_state[chat_id]
-    try: bot.delete_message(chat_id, message.message_id)
-    except: pass
 
     if state['type'] == 'exhibit' and 'name' not in state:
         try:
@@ -123,6 +121,8 @@ def process_admin_text(message):
             admin_state.pop(chat_id)
             send_clean(chat_id, "✅ Вопрос добавлен!", markup=types.InlineKeyboardMarkup().add(types.InlineKeyboardButton("Админ-панель", callback_data="admin_main")))
         except: bot.send_message(chat_id, "❌ Ошибка формата!")
+    try: bot.delete_message(chat_id, message.message_id)
+    except: pass
 
 
 @bot.callback_query_handler(func=lambda call: True)
@@ -258,4 +258,3 @@ def handle_queries(call):
 
 bot.send_message(ADMIN_ID, 'Bot start')
 bot.infinity_polling()
-
