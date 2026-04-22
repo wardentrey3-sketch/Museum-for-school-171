@@ -3,7 +3,7 @@ import json
 import os
 from telebot import types
 
-TOKEN = 'Сюда вставить токен бота'
+TOKEN = 'Token'
 ADMIN_ID = 1846110852
 bot = telebot.TeleBot(TOKEN)
 
@@ -249,7 +249,7 @@ def handle_queries(call):
             markup = types.InlineKeyboardMarkup()
             for i, opt in enumerate(q['options']):
                 markup.add(types.InlineKeyboardButton(opt, callback_data=f"quiz_{q_idx+1}_{score + (1 if i == q['correct'] else 0)}"))
-            send_clean(chat_id, f"❓ <b>Вопрос {q_idx+1}:</b>\n\n{q['question']}", markup=markup)
+            send_clean(chat_id, f"❓ <b>Вопрос {q_idx+1} из {len(quiz)}:</b>\n\n{q['question']}", markup=markup)
         else:
             send_clean(chat_id, f"<b>Конец!</b>\nВаш результат: {score}/{len(quiz)}", markup=types.InlineKeyboardMarkup().add(types.InlineKeyboardButton("В меню", callback_data="main_menu")))
 
@@ -258,4 +258,3 @@ def handle_queries(call):
 
 bot.send_message(ADMIN_ID, 'Bot start')
 bot.infinity_polling()
-
